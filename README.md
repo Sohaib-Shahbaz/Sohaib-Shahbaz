@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sohaib Shahbaz</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">Final-year Computer Science student interested in software development and problem-solving. Building projects in Python and Java, and always looking to learn new tools and improve my code. Currently seeking graduate/junior roles — open to opportunities.</h3>
+
+- 🔭 I’m currently working on [100 Days Of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOooFG8VIFQ_RXAZtYWTnrmQs0WxBEew5i3Pp3uEbSmEVUDPO6EaQ)
+
+- 📫 How to reach me **dellsohaib7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.topcoder.com/members/bl9 9dl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="bl9 9dl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sohaibshahbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohaibshahbaz" height="30" width="40" /></a>
+<a href="https://instagram.com/sohaib_shahbaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohaib_shahbaz_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
