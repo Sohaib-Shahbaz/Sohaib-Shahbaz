@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [100 Days Of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOooFG8VIFQ_RXAZtYWTnrmQs0WxBEew5i3Pp3uEbSmEVUDPO6EaQ)
 
-- 📫 How to reach me **dellsohaib7@gmail.com**
+- 📫 How to reach me **shahbazsohaib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
